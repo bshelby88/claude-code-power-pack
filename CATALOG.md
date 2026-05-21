@@ -1,0 +1,53 @@
+# Skill Catalog (51 skills)
+
+- **agentic-seo** — >
+- **analyzing-financial-statements** — This skill calculates key financial ratios and metrics from financial statement data for investment analysis
+- **applying-brand-guidelines** — This skill applies consistent corporate branding and styling to all generated documents including colors, fonts, layouts, and mess
+- **artifacts-builder** — Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tai
+- **canvas-design** — Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to cr
+- **caveman-commit** — >
+- **caveman-compress** — >
+- **caveman-review** — >
+- **changelog-generator** — Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming 
+- **competitive-ads-extractor** — Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand what messaging, problems, and cr
+- **composition-patterns** — no description
+- **content-research-writer** — Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and prov
+- **creating-financial-models** — This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scen
+- **deploy-to-vercel** — Deploy applications and websites to Vercel. Use when the user requests deployment actions like deploy my app, deploy and give me t
+- **domain-name-brainstormer** — Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). S
+- **file-organizer** — Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting bette
+- **gws-workflow-email-to-task** — Google Workflow: Convert a Gmail message into a Google Tasks entry.
+- **gws-workflow-meeting-prep** — Google Workflow: Prepare for your next meeting: agenda, attendees, and linked docs.
+- **gws-workflow-standup-report** — Google Workflow: Today's meetings + open tasks as a standup summary.
+- **gws-workflow-weekly-digest** — Google Workflow: Weekly summary: this week's meetings + unread email count.
+- **image-enhancer** — Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing ima
+- **improvement-loop** — Use after resolving a bug, failed task, or unexpected agent behavior to improve the pipeline skills, agents, hooks, or scripts tha
+- **internal-comms** — A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude s
+- **invoice-organizer** — Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information, renaming the
+- **lead-research-assistant** — Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providin
+- **mcp-builder** — Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through w
+- **meeting-insights-analyzer** — Analyzes meeting transcripts and recordings to uncover behavioral patterns, communication insights, and actionable feedback. Ident
+- **persona-content-creator** — Create, organize, and distribute content across Workspace.
+- **persona-customer-support** — Manage customer support — track tickets, respond, escalate issues.
+- **persona-exec-assistant** — Manage an executive's schedule, inbox, and communications.
+- **persona-project-manager** — Coordinate projects — track tasks, schedule meetings, and share docs.
+- **persona-sales-ops** — Manage sales workflows — track deals, schedule calls, client comms.
+- **react-native-skills** — no description
+- **react-view-transitions** — Guide for implementing smooth, native-feeling animations using React's View Transition API (`<ViewTransition>` component, `addTran
+- **recipe-create-expense-tracker** — Set up a Google Sheets spreadsheet for tracking expenses with headers and initial entries.
+- **recipe-create-feedback-form** — Create a Google Form for feedback and share it via Gmail.
+- **recipe-find-large-files** — Identify large Google Drive files consuming storage quota.
+- **recipe-generate-report-from-sheet** — Read data from a Google Sheet and create a formatted Google Docs report.
+- **recipe-plan-weekly-schedule** — Review your Google Calendar week, identify gaps, and add events to fill them.
+- **recipe-post-mortem-setup** — Create a Google Docs post-mortem, schedule a Google Calendar review, and notify via Chat.
+- **simplify** — Manually trigger the cdd-code-simplifier agent to review and simplify code
+- **skill-creator** — Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill)
+- **tailored-resume-generator** — Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize 
+- **theme-factory** — Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10
+- **triage** — Trigger the issue triage workflow for a specific issue. Usage: /triage {issue_number}
+- **twitter-algorithm-optimizer** — Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. Rewrite and edit user tweets to impr
+- **vercel-cli-with-tokens** — Deploy and manage projects on Vercel using token-based authentication. Use when working with Vercel CLI using access tokens rather
+- **video-downloader** — Download YouTube videos with customizable quality and format options. Use this skill when the user asks to download, save, or grab
+- **webapp-testing** — Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debug
+- **web-design-guidelines** — Review UI code for Web Interface Guidelines compliance. Use when asked to review my UI, check accessibility, audit design, review 
+- **writing-agents** — Use when creating new agents, editing existing agents, or defining specialized subagent roles for the Task tool
